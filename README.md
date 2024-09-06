@@ -6,7 +6,7 @@ Defeat digimon to increase the scan rate percentage of them & then you can scan 
 
 -------------------------------------
 AkumaVenom's current task:
--adding all 380+ digimon into game.
+-adding all 380+ digimon into game (2D Sprites & 3D Models)
 
 -------------------------------------
 
