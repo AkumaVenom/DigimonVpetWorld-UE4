@@ -10,7 +10,7 @@ Defeat digimon to increase the scan rate percentage of them & then you can scan 
 
 -------------------------------------
 
-![DigiScreen](https://github.com/user-attachments/assets/924f8575-8a01-49e9-b936-39e1646cb622)
+![DigiScreen](https://github.com/user-attachments/assets/26b56c45-0935-4a17-b60b-a14de4933262)
 
 -------------------------------------
 
