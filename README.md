@@ -9,9 +9,8 @@ Digimon are found in seed typed generated cyber worlds, URLs are setup as seeds.
 Defeat digimon to increase the scan rate percentage of them & then you can scan capture the digimon to obtain it.
 
 -------------------------------------
-Click Image For Video Preview:
 
-[![Digimon Video Preview](https://img.youtube.com/vi/qHiRlZzWsxM/maxresdefault.jpg)](https://youtu.be/qHiRlZzWsxM?si=yEpv9nbPwmnpCyTb)
+![Splash](https://github.com/user-attachments/assets/6d246661-613a-4677-a01a-cc8f0b34a457)
 
 -------------------------------------
 
